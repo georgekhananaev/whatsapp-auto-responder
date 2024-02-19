@@ -149,3 +149,8 @@ cython_debug/
 
 # Docker
 docker-compose.override.yml
+
+
+# local cache
+responded_messages.txt
+incoming_messages.csv
