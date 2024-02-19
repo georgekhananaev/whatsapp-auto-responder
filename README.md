@@ -28,8 +28,8 @@ Before you begin, ensure you have the following:
    Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/georgekhananaev/whatsapp-auto-responder.git
+   cd whatsapp-auto-responder
    ```
 
 ### Environment Setup
